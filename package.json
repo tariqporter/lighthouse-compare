@@ -1,0 +1,12 @@
+{
+  "name": "lighthouse-compare",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "lighthouse": "^6.1.1"
+  }
+}
